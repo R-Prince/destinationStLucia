@@ -43,6 +43,22 @@
     font-size: 1.5em;
 }
 
+/* SEARCH RESULT SECTION */
+.searchImage{
+    max-height: 20rem;
+    margin-bottom: 0.7rem;
+}
+
+.field{
+    margin-left: 1rem;
+}
+
+.fieldText{
+    margin-bottom: 0.4rem;
+}
+
+
+
 /* FEATURES SECTION */
 .featureContainer {
     padding: 0;
