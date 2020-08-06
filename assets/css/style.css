@@ -115,3 +115,22 @@
     color: white;
     font-size: 2rem;
 }
+
+/* FOOTER */
+.footer{
+    margin-top: 1rem;
+    min-height: 10rem;
+    background-color: #f2f2f2;
+    padding-bottom: 1rem;
+}
+.footerText{
+    margin-bottom:0.6rem;
+}
+.footer-list{
+    font-size: 1.5rem;
+    margin-right: 1.5rem;
+}
+
+.list-inline{
+    margin-bottom: 0.4rem;
+}
